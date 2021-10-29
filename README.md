@@ -23,3 +23,6 @@ I use the p5.js Library for all the graphical purposes.
 
 > The journey of a thousand repos starts with a single commit. So leave your commitment issues behind and commit away!
 > - Someone
+
+added a c++ snippet for competitive usage
+
